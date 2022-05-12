@@ -23,7 +23,7 @@ p {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .container {
@@ -87,6 +87,7 @@ body {
 .key.active {
   color: #fff;
   background-color: #0076d7;
+  transform: scale(0.95);
 }
 
 .first__row .key:last-child {
